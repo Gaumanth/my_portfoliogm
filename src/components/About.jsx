@@ -14,23 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        As a React Developer with 1.9 Years of experience, I have a strong passion for creating dynamic and responsive web applications. I specialize in using ReactJS, Redux, and other modern web technologies to build scalable and efficient applications. My expertise also includes working with RESTful APIs, HTML5, CSS3, and JavaScript.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Throughout my career, I have developed a keen eye for detail and have been successful in delivering high-quality software within tight deadlines. I am also a strong believer in agile methodologies and have experience working in cross-functional teams to deliver results. My excellent communication and problem-solving skills have enabled me to work collaboratively with designers, product owners, and QA teams to create innovative and user-friendly applications.
         </p>
       </div>
     </div>
